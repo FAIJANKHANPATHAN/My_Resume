@@ -1,6 +1,7 @@
 html {
-  font-family: "DM Serif Text", serif;
-  font-size:25px ;
+  font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px ;
+  color:rgb(106, 106, 106);
   background-color: rgb(255, 253, 250);
 }
 
